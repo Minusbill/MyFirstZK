@@ -11,6 +11,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/Minusbill/MyFirstZK"
+    "url": "git+https://github.com/Minusbill/MyFirstZK"
+  },
+  "dependencies": {
+    "ethers": "^6.11.1"
   }
 }
